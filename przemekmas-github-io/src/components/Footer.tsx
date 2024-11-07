@@ -8,7 +8,6 @@ const Footer = () => {
                 py: 4,
                 px: 2,
                 mt: 'auto',
-                // color: "inherit",
                 backgroundColor: (theme) => theme.palette.primary.dark,
                 color: (theme) => theme.palette.common.white
             }}
